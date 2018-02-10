@@ -10,9 +10,11 @@ public class App
     public static void main( String[] args )
     {
         System.out.println("Hello jagan!");
+        System.out.println("hooks");
     }
     public void main1(  )
     {
         System.out.println("Hello jagan!");
+        System.out.println("hooks");
     }
 }
